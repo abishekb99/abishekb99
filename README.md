@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and networking
 - 🌱 I’m currently learning networking and programming
 - 💞️ I’m looking to collaborate on any kind of projects
-- 📫 How to reach me through my email
+- 📫 reach me through my email
 
 
 <!---
